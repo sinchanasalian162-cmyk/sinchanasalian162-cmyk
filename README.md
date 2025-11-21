@@ -12,13 +12,13 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> gaurish
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <!--
 TODO:
-- Change `gaureshpai` below to YOUR GitHub username
+- Change 'gaureshpai` below to YOUR GitHub username
 - You can also change color or style if you want
   Docs: https://komarev.com/ghpvc/
 -->
